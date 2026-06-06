@@ -10,8 +10,8 @@ return [
     |--------------------------------------------------------------------------
     |
     | This option controls the default cache store that will be used by the
-    | framework. This connection is utilized if another isn't explicitly
-    | specified when running a cache operation inside the application.
+    | framework. This connection is used if another is not explicitly
+    | specified when utilizing the Cache story or facade.
     |
     */
 
@@ -27,12 +27,7 @@ return [
     | same cache driver to group types of items stored in your caches.
     |
     | Supported drivers: "array", "database", "file", "memcached",
-<<<<<<< HEAD
     |                    "redis", "dynamodb", "octane", "null"
-=======
-    |                    "redis", "dynamodb", "storage", "octane",
-    |                    "session", "failover", "null"
->>>>>>> 9841157 (update website)
     |
     */
 
@@ -57,15 +52,6 @@ return [
             'lock_path' => storage_path('framework/cache/data'),
         ],
 
-<<<<<<< HEAD
-=======
-        'storage' => [
-            'driver' => 'storage',
-            'disk' => env('CACHE_STORAGE_DISK'),
-            'path' => env('CACHE_STORAGE_PATH', 'framework/cache/data'),
-        ],
-
->>>>>>> 9841157 (update website)
         'memcached' => [
             'driver' => 'memcached',
             'persistent_id' => env('MEMCACHED_PERSISTENT_ID'),
@@ -104,17 +90,6 @@ return [
             'driver' => 'octane',
         ],
 
-<<<<<<< HEAD
-=======
-        'failover' => [
-            'driver' => 'failover',
-            'stores' => [
-                'database',
-                'array',
-            ],
-        ],
-
->>>>>>> 9841157 (update website)
     ],
 
     /*
@@ -122,29 +97,12 @@ return [
     | Cache Key Prefix
     |--------------------------------------------------------------------------
     |
-    | When utilizing the APC, database, memcached, Redis, and DynamoDB cache
-    | stores, there might be other applications using the same cache. For
-    | that reason, you may prefix every cache key to avoid collisions.
+    | When utilizing the Cache store, all keys will be prefixed with the
+    | value defined below. This will help avoid conflicts when multiple
+    | applications are utilizing the same cache server.
     |
     */
 
-<<<<<<< HEAD
     'prefix' => env('CACHE_PREFIX', Str::slug(env('APP_NAME', 'laravel'), '_').'_cache_'),
-=======
-    'prefix' => env('CACHE_PREFIX', Str::slug((string) env('APP_NAME', 'laravel')).'-cache-'),
-
-    /*
-    |--------------------------------------------------------------------------
-    | Serializable Classes
-    |--------------------------------------------------------------------------
-    |
-    | This value determines the classes that can be unserialized from cache
-    | storage. By default, no PHP classes will be unserialized from your
-    | cache to prevent gadget chain attacks if your APP_KEY is leaked.
-    |
-    */
-
-    'serializable_classes' => false,
->>>>>>> 9841157 (update website)
 
 ];
