@@ -16,7 +16,7 @@
 }
 
 body{
-    background:linear-gradient(to right,#1E40AF,#3B82F6);
+    background:linear-gradient(to right,#ff8800,#f67f00);
 }
 
 nav{
@@ -34,7 +34,7 @@ nav h2{
 }
 
 .hero{
-    background:linear-gradient(to right,#7F1D1D,#B91C1C);
+    background:linear-gradient(to right,#ff0000,#f11800);
     color:white;
     text-align:center;
     padding:80px 20px;
@@ -76,7 +76,7 @@ nav h2{
 
 .card{
     width:280px;
-    background:#E5E7EB;
+    background:#ef7400;
     padding:20px;
     border-radius:10px;
     text-align:center;
@@ -172,7 +172,7 @@ footer{
 
 <section class="hero">
 
-<h1>Kami Kembali</h1>
+<h1>DASHBOARD</h1>
 
 <p>Tugas Kelompok Pemrograman halaman Laravel</p>
 
