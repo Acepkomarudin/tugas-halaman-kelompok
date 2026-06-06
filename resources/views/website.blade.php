@@ -216,7 +216,11 @@ footer{
 
 <div class="card">
 
+<<<<<<< HEAD
 <img src="img/12.jpeg" alt="Acep">
+=======
+<img src="img/acep.jpeg" alt="Acep">
+>>>>>>> 9841157 (update website)
 
 <h3>Acep Komarudin</h3>
 
@@ -228,9 +232,15 @@ footer{
 
 <div class="card">
 
+<<<<<<< HEAD
 <img src="img/14.jpeg" alt="Adi">
 
 <h3>muhamad aditiya</h3>
+=======
+<img src="img/adit.jpeg" alt="Adiiya">
+
+<h3>Muhamad Aditiya</h3>
+>>>>>>> 9841157 (update website)
 
 <p>Mahasiswa sistem informasi</p>
 
@@ -240,11 +250,19 @@ footer{
 
 <div class="card">
 
+<<<<<<< HEAD
 <img src="img/13.jpeg" alt="Puyu">
 
 <h3>putri ayu ramadani</h3>
 
 <p>Mahasiswa sistem informasi</p>
+=======
+<img src="img/puyu.jpeg" alt="Putri ayu">
+
+<h3>Putri Ayu Ramadani</h3>
+
+<p>Mahasiswi sistem informasi</p>
+>>>>>>> 9841157 (update website)
 
 <a href="/unable" class="btn">Lihat Profil</a>
 

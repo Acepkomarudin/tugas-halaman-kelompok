@@ -14,21 +14,33 @@
 }
 
 body{
+<<<<<<< HEAD
     background:linear-gradient(135deg,#0d6efd,#6ea8fe);
+=======
+    background:#ff00ee;
+>>>>>>> 9841157 (update website)
 }
 
 .container{
     width:90%;
     max-width:900px;
     margin:50px auto;
+<<<<<<< HEAD
     background:#fff;
+=======
+    background:#782ea9;
+>>>>>>> 9841157 (update website)
     border-radius:20px;
     overflow:hidden;
     box-shadow:0 10px 30px rgba(0,0,0,0.2);
 }
 
 .header{
+<<<<<<< HEAD
     background:#0d6efd;
+=======
+    background:#c300ff;
+>>>>>>> 9841157 (update website)
     color:#fff;
     text-align:center;
     padding:40px;
@@ -64,7 +76,11 @@ body{
 }
 
 .info b{
+<<<<<<< HEAD
     color:#0d6efd;
+=======
+    color:#ffffff;
+>>>>>>> 9841157 (update website)
 }
 
 .about{
@@ -95,9 +111,15 @@ body{
     margin:8px;
     padding:10px 18px;
     text-decoration:none;
+<<<<<<< HEAD
     color:#fff;
     border-radius:8px;
     background:#198754;
+=======
+    color:#ffffff;
+    border-radius:8px;
+    background:#ff00ee;
+>>>>>>> 9841157 (update website)
 }
 
 .sosmed a:hover{
@@ -110,7 +132,11 @@ body{
 }
 
 .kembali a{
+<<<<<<< HEAD
     background:#0d6efd;
+=======
+    background:#ff00f7;
+>>>>>>> 9841157 (update website)
     color:#fff;
     padding:12px 25px;
     text-decoration:none;
@@ -118,7 +144,11 @@ body{
 }
 
 .kembali a:hover{
+<<<<<<< HEAD
     background:#084298;
+=======
+    background:#d114c8;
+>>>>>>> 9841157 (update website)
 }
 </style>
 
@@ -128,6 +158,7 @@ body{
 
 <div class="container">
 
+<<<<<<< HEAD
     <div class="header">
 
         <img src="img/13.jpeg" alt="Foto Profil">
@@ -135,16 +166,33 @@ body{
         <h1>putri ayu ramadani</h1>
 
         <p>Mahasiswa Sistem Informasi</p>
+=======
+    <div class="header"style="color:white;">
+
+        <img src="img/puyu.jpeg" alt="Foto Profil">
+
+        <h1>Putri Ayu Ramadhani</h1>
+
+        <p>Mahasiswi Sistem Informasi</p>
+>>>>>>> 9841157 (update website)
 
     </div>
 
     <div class="content">
 
+<<<<<<< HEAD
         <h2>Biodata</h2>
 
         <br>
 
         <div class="info">
+=======
+        <h2 style="color:white;">Biodata</h2>
+
+        <br>
+
+        <div class="info"style="color:white;">
+>>>>>>> 9841157 (update website)
 
             <b>Nama</b>
             <span>: putri ayu ramadani</span>
@@ -153,7 +201,11 @@ body{
             <span>: F1B250022</span>
 
             <b>Status</b>
+<<<<<<< HEAD
             <span>: Mahasiswa</span>
+=======
+            <span>: Mahasiswi</span>
+>>>>>>> 9841157 (update website)
 
             <b>Universitas</b>
             <span>: Universitas Al Ghifari</span>
@@ -166,6 +218,7 @@ body{
 
         </div>
 
+<<<<<<< HEAD
         <h2>Tentang Saya</h2>
 
         <br>
@@ -173,6 +226,15 @@ body{
         <div class="about">
 
             Saya adalah mahasiswa Sistem Informasi yang memiliki minat
+=======
+        <h2 style="color:white;">Tentang Saya</h2>
+
+        <br>
+
+        <div class="about"style="color:white;">
+
+            Saya adalah mahasiswi Sistem Informasi yang memiliki minat
+>>>>>>> 9841157 (update website)
             besar pada dunia teknologi, pemrograman web, dan pengembangan
             aplikasi menggunakan Laravel. Saya senang mempelajari hal-hal
             baru, meningkatkan kemampuan di bidang coding, serta
@@ -180,7 +242,11 @@ body{
 
         </div>
 
+<<<<<<< HEAD
         <div class="skill">
+=======
+        <div class="skill"style="color:white;">
+>>>>>>> 9841157 (update website)
 
     <h2>Skill</h2>
     <br>
@@ -195,7 +261,11 @@ body{
 
 </div>
 
+<<<<<<< HEAD
         <div class="sosmed">
+=======
+        <div class="sosmed"style="color:white;">
+>>>>>>> 9841157 (update website)
 
             <h2>Hubungi Saya</h2>
 

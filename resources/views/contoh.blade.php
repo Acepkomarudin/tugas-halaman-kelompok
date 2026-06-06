@@ -14,22 +14,35 @@
 }
 
 body{
+<<<<<<< HEAD
     background:black;
+=======
+    background:rgb(115, 0, 255);
+>>>>>>> 9841157 (update website)
 }
 
 .container{
     width:90%;
     max-width:900px;
     margin:50px auto;
+<<<<<<< HEAD
     background:#00FF00;
+=======
+    background:#ff5900;
+>>>>>>> 9841157 (update website)
     border-radius:20px;
     overflow:hidden;
     box-shadow:0 10px 30px rgba(0,0,0,0.2);
 }
 
 .header{
+<<<<<<< HEAD
     background:#FF0000;
     color:#fff;
+=======
+    background:#ff8400;
+    color:#000000;
+>>>>>>> 9841157 (update website)
     text-align:center;
     padding:40px;
 }
@@ -64,7 +77,11 @@ body{
 }
 
 .info b{
+<<<<<<< HEAD
     color:#0d6efd;
+=======
+    color:#000000;
+>>>>>>> 9841157 (update website)
 }
 
 .about{
@@ -95,9 +112,15 @@ body{
     margin:8px;
     padding:10px 18px;
     text-decoration:none;
+<<<<<<< HEAD
     color:#fff;
     border-radius:8px;
     background:blue;
+=======
+    color:#000000;
+    border-radius:8px;
+    background:rgb(2, 224, 2);
+>>>>>>> 9841157 (update website)
 }
 
 .sosmed a:hover{
@@ -110,15 +133,24 @@ body{
 }
 
 .kembali a{
+<<<<<<< HEAD
     background:red;
     color:#fff;
+=======
+    background:rgb(170, 0, 255);
+    color:#000000;
+>>>>>>> 9841157 (update website)
     padding:12px 25px;
     text-decoration:none;
     border-radius:8px;
 }
 
 .kembali a:hover{
+<<<<<<< HEAD
     background:#084298;
+=======
+    background:#b72f17;
+>>>>>>> 9841157 (update website)
 }
 </style>
 
@@ -130,8 +162,12 @@ body{
 
     <div class="header">
 
+<<<<<<< HEAD
         <!-- Ganti dengan foto Anda -->
         <img src="img/12.jpeg" alt="Foto Profil">
+=======
+        <img src="img/acep.jpeg" alt="Foto Profil">
+>>>>>>> 9841157 (update website)
 
         <h1>Acep Komarudin</h1>
 
