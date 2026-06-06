@@ -14,35 +14,22 @@
 }
 
 body{
-<<<<<<< HEAD
-    background:black;
-=======
     background:rgb(115, 0, 255);
->>>>>>> 9841157 (update website)
 }
 
 .container{
     width:90%;
     max-width:900px;
     margin:50px auto;
-<<<<<<< HEAD
-    background:#00FF00;
-=======
     background:#ff5900;
->>>>>>> 9841157 (update website)
     border-radius:20px;
     overflow:hidden;
     box-shadow:0 10px 30px rgba(0,0,0,0.2);
 }
 
 .header{
-<<<<<<< HEAD
-    background:#FF0000;
-    color:#fff;
-=======
     background:#ff8400;
     color:#000000;
->>>>>>> 9841157 (update website)
     text-align:center;
     padding:40px;
 }
