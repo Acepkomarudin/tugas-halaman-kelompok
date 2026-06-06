@@ -166,7 +166,7 @@ footer{
 
 <nav>
 
-<h2>WEBSITE KELOMPOK</h2>
+<h2>WEBSITE KELOMPOK 1</h2>
 
 </nav>
 
