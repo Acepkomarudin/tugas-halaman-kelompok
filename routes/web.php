@@ -14,6 +14,6 @@ Route::get('/unable', function () {
     return view('unable');
 });
 
-Route::get('/website', function () {
+Route::get('/', function () {
     return view('website');
 });
