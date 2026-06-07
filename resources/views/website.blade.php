@@ -278,7 +278,7 @@ yang baik.
 
 <div class="box contact">
 
-<h2>Hubungi Saya</h2>
+<h2>Hubungi Kami</h2>
 
 <br>
 
