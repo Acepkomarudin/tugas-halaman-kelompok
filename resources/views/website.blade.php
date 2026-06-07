@@ -298,7 +298,7 @@ yang baik.
 
 <p>
 
-© 2026 My Website | Dibuat oleh Acep Komarudin
+© 2026 My Website | Dibuat oleh Kelompok 1
 
 </p>
 
