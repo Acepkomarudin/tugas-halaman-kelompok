@@ -16,12 +16,12 @@
 }
 
 body{
-    background:linear-gradient(to right,#ff8800,#f67f00);
+    background:linear-gradient(to right,#ce6e00,#c16400);
 }
 
 nav{
-    background:black;
-    padding:18px;
+    background:rgb(19, 19, 19);
+    padding:13px;
     text-align:center;
     position:sticky;
     top:0;
@@ -34,10 +34,10 @@ nav h2{
 }
 
 .hero{
-    background:linear-gradient(to right,#ff0000,#f11800);
-    color:white;
+    background:linear-gradient(to right,#11ce00cf,#2bff009a);
+    color:rgb(0, 0, 0);
     text-align:center;
-    padding:80px 20px;
+    padding:60px 20px;
 }
 
 .hero h1{
@@ -132,7 +132,7 @@ nav h2{
 }
 
 footer{
-    background:#222;
+    background:#1e1d1d;
     color:white;
     text-align:center;
     padding:20px;
@@ -166,13 +166,13 @@ footer{
 
 <nav>
 
-<h2>WEBSITE KELOMPOK 1</h2>
+<h2>KELOMPOK 1</h2>
 
 </nav>
 
 <section class="hero">
 
-<h1>DASHBOARD</h1>
+<h1>MY WEBSITE</h1>
 
 <p>Tugas Kelompok Pemrograman halaman Laravel</p>
 
