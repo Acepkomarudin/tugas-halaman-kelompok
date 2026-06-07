@@ -147,10 +147,10 @@ body{
         <div class="info"style="color:white;">
 
             <b>Nama</b>
-            <span>: putri ayu ramadani</span>
+            <span>: Putri Ayu Ramadhani</span>
 
             <b>Nim</b>
-            <span>: F1B250022</span>
+            <span>: F1B250007</span>
 
             <b>Status</b>
             <span>: Mahasiswi</span>
